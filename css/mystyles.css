@@ -1,0 +1,55 @@
+.kikicenter{
+    text-align: center;
+    color: #caa9ce;
+    margin: 20px auto;
+}
+.kiki123{
+    text-align: center;
+    color: #5b7bbb;
+    background-color: rgb(241, 207, 245);
+    padding: 20px;
+    border: 40px;
+    border-radius: 20px;
+    margin: 80px auto;
+    width: 80%;
+    height: 100;
+    overflow: auto;
+    }
+.centercenter{
+    text-align: center;
+}
+a.kikilink{
+    color: rgb(224, 177, 213);
+    padding: 0 30px;
+    border-radius: 50px;
+    background-color: aliceblue;
+}
+a.kikilink:hover{
+    background-color: #a8e3eb;
+    color: #f5edf6;
+}
+.kikibig{
+    font-size: 20px;
+    font-weight: 800;
+}
+.kikigo{
+    font-size: 50px;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+section#about{
+    background-color:plum;
+    background-image: url("../assets/img/10.jpeg") ;
+}
+section#about h1{
+    color:rgb(129, 179, 222);
+}
+section#about div{
+    color:rgb(96, 141, 218);
+}
+section#callme{
+    background-color:plum
+}
