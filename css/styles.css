@@ -4847,17 +4847,12 @@ textarea.form-control-lg {
 .list-group-item:last-child {
   border-bottom-right-radius: inherit;
   border-bottom-left-radius: inherit;
+;
 }
 .list-group-item.disabled, .list-group-item:disabled {
   color: var(--bs-list-group-disabled-color);
   pointer-events: none;
   background-color: var(--bs-list-group-disabled-bg);
-}
-.list-group-item.active {
-  z-index: 2;
-  color: var(--bs-list-group-active-color);
-  background-color: var(--bs-list-group-active-bg);
-  border-color: var(--bs-list-group-active-border-color);
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;
