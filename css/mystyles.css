@@ -45,10 +45,10 @@ section#about{
     background-image: url("../assets/img/10.jpeg") ;
 }
 section#about h1{
-    color:rgb(129, 179, 222);
+    color:rgb(102, 160, 211);
 }
 section#about div{
-    color:rgb(96, 141, 218);
+    color:#5b7bbb;
 }
 section#callme{
     background-color:plum
