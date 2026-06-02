@@ -48,7 +48,7 @@ section#about h1{
     color:rgb(102, 160, 211);
 }
 section#about div{
-    color:#5b7bbb;
+ color:#5b7bbb;
 }
 section#callme{
     background-color:plum
@@ -63,4 +63,8 @@ section#callme{
 }
 .serif{
   font-family: "Noto Serif TC", serif;
+}
+.kikipic{
+    width: 98%;
+    border-radius: 10px;
 }
