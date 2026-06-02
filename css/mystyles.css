@@ -41,8 +41,8 @@ a.kikilink:hover{
     text-align: center;
 }
 section#about{
-    background-color:plum;
-    background-image: url("../assets/img/10.jpeg") ;
+    background-color:rgb(227, 176, 200);
+    background-image: url("../assets/img/35.jpg") ;
 }
 section#about h1{
     color:rgb(102, 160, 211);
@@ -51,7 +51,8 @@ section#about div{
  color:#5b7bbb;
 }
 section#callme{
-    background-color:plum
+    background-color:plum;
+    background-image: url("../assets/img/35.jpg") ;
 }
 
 
