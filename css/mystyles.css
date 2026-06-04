@@ -43,6 +43,10 @@ a.kikilink:hover{
 section#about{
     background-color:rgb(227, 176, 200);
     background-image: url("../assets/img/35.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 section#about h1{
     color:rgb(102, 160, 211);
@@ -53,6 +57,10 @@ section#about div{
 section#callme{
     background-color:plum;
     background-image: url("../assets/img/35.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 
